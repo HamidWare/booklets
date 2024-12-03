@@ -4,7 +4,7 @@ Welcome to the **Booklets Repository**! This repository is a collection of profe
 
 ## Contents
 
-- [Master's Thesis Guide](./Masters%20Thesis)  
+- [Master's Thesis Guide](./Masters_Thesis/)
   *Version 1.0* - A comprehensive guide on how to effectively present and write a master's thesis.
 
 ## Why This Repository?
